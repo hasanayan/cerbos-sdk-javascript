@@ -3,3 +3,5 @@
 /packages/*/lib/
 /packages/*/node_modules/
 /packages/test/servers/tmp/
+
+.vscode
